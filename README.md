@@ -8,7 +8,7 @@ This is the official source code for my book Practical Entity Framework Core 6
 | Title | Practical Entity Framework Core 6 |  
 | Publisher | APress |
 | ISBN | 978-1484273005 |
-| Amazon | [Practical Entity Framework Core 6]() |
+| Amazon | [Practical Entity Framework Core 6](https://www.amazon.com/Practical-Entity-Framework-Core-Applications/dp/1484273001/) |
 | Author | Brian L. Gorman |
 | Edition | 2nd |
 
